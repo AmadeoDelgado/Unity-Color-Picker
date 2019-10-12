@@ -1,0 +1,11 @@
+﻿  ColorTool.cpp
+d:\universidad\4to\middleware\code\lib\source\colortool.cpp(103): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+d:\universidad\4to\middleware\code\lib\source\colortool.cpp(107): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+d:\universidad\4to\middleware\code\lib\source\colortool.cpp(120): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+d:\universidad\4to\middleware\code\lib\source\colortool.cpp(107): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+d:\universidad\4to\middleware\code\lib\source\colortool.cpp(327): warning C4244: 'argumento': conversión de 'float' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=int
+          ]
+  ColorToolLib.vcxproj -> D:\Universidad\4to\Middleware\VisualProjects\ColorToolDll\\..\..\libraries\ColorTool\lib\ColorToolLibRelease.lib

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColorToolDll", "ColorToolDll.vcxproj", "{9C739308-5DB6-40A2-873F-E44F7A89F553}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColorToolLib", "..\ColorToolLib\ColorToolLib.vcxproj", "{10E2D947-F37D-4DCC-9391-E7E1C36DEEB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C739308-5DB6-40A2-873F-E44F7A89F553}.Debug|x64.ActiveCfg = Debug|x64
+		{9C739308-5DB6-40A2-873F-E44F7A89F553}.Debug|x64.Build.0 = Debug|x64
+		{9C739308-5DB6-40A2-873F-E44F7A89F553}.Release|x64.ActiveCfg = Release|x64
+		{9C739308-5DB6-40A2-873F-E44F7A89F553}.Release|x64.Build.0 = Release|x64
+		{10E2D947-F37D-4DCC-9391-E7E1C36DEEB4}.Debug|x64.ActiveCfg = Debug|x64
+		{10E2D947-F37D-4DCC-9391-E7E1C36DEEB4}.Debug|x64.Build.0 = Debug|x64
+		{10E2D947-F37D-4DCC-9391-E7E1C36DEEB4}.Release|x64.ActiveCfg = Release|x64
+		{10E2D947-F37D-4DCC-9391-E7E1C36DEEB4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C06C26F-7270-4FF6-AD7B-C099D708E9A6}
+	EndGlobalSection
+EndGlobal
